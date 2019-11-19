@@ -1,3 +1,4 @@
+/*
 package ch08;
 
 import com.sun.tools.javac.util.List;
@@ -6,7 +7,9 @@ import java.util.*;
 
 public class CollectionTest {
     public static void main(String[] args) {
-        /* 8.1 */
+        */
+/* 8.1 *//*
+
         // 리스트 팩토리
         List<String> friends = List.of("eunho","eunho2","eunho3");
         System.out.println(friends);
@@ -24,7 +27,9 @@ public class CollectionTest {
         Map<String, Integer> ageOfFriends = Map.of("eunho",20,"eunho2",30,"eunho3",40);
 
 
-        /* 8.3 */
+        */
+/* 8.3 *//*
+
 
         // Map의 반복 - before
         Map<String, Integer> ages = new HashMap<>();
@@ -53,3 +58,4 @@ public class CollectionTest {
 
     }
 }
+*/
