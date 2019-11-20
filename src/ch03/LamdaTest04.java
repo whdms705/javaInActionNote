@@ -15,12 +15,7 @@ public class LamdaTest04 {
 
         System.out.println(redApples);
 
-        // Predicate 조합
-        // negate
 
-
-
-        //
 
 
     }
